@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\bin\Debug\net8.0\MathLib.deps.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\bin\Debug\net8.0\MathLib.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\bin\Debug\net8.0\MathLib.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\MathLib.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\MathLib.sourcelink.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\MathLib.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\refint\MathLib.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\MathLib.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\MathLib\obj\Debug\net8.0\ref\MathLib.dll

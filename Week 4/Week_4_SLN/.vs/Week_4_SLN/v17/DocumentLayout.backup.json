@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\generics\\serialization\\fileconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\generics\\serialization\\fileconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\sample.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\generics\\serialization\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\generics\\serialization\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\documentprocessing\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\documentprocessing\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\documentprocessing\\csvdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\documentprocessing\\csvdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\documentprocessing\\txtdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\documentprocessing\\txtdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\documentprocessing\\interfaces\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\documentprocessing\\interfaces\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\documentprocessing\\interfaces\\iconverttojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\documentprocessing\\interfaces\\iconverttojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\documentprocessing\\interfaces\\iconverttouppercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\documentprocessing\\interfaces\\iconverttouppercase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 4\\week_4_sln\\types_generics\\generics\\examplegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4409902D-9908-4FE6-BF2E-3E2DED7679A2}|Types_Generics\\Types_Generics.csproj|solutionrelative:types_generics\\generics\\examplegen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileConverter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Generics\\Serialization\\FileConverter.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\Generics\\Serialization\\FileConverter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Generics\\Serialization\\FileConverter.cs",
+              "RelativeToolTip": "Types_Generics\\Generics\\Serialization\\FileConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:46:31.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Generics\\Serialization\\Person.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\Generics\\Serialization\\Person.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Generics\\Serialization\\Person.cs",
+              "RelativeToolTip": "Types_Generics\\Generics\\Serialization\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:45:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sample.txt",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\sample.txt",
+              "RelativeDocumentMoniker": "Types_Generics\\sample.txt",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\sample.txt",
+              "RelativeToolTip": "Types_Generics\\sample.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-14T15:58:39.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\Interfaces\\IDocument.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\DocumentProcessing\\Interfaces\\IDocument.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\Interfaces\\IDocument.cs",
+              "RelativeToolTip": "Types_Generics\\DocumentProcessing\\Interfaces\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:37:04.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvDocument.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\CsvDocument.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\DocumentProcessing\\CsvDocument.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\CsvDocument.cs",
+              "RelativeToolTip": "Types_Generics\\DocumentProcessing\\CsvDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:29:04.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TxtDocument.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\TxtDocument.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\DocumentProcessing\\TxtDocument.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\TxtDocument.cs",
+              "RelativeToolTip": "Types_Generics\\DocumentProcessing\\TxtDocument.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:05:15.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Program.cs",
+              "RelativeToolTip": "Types_Generics\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:07:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IConvertToJson.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\Interfaces\\IConvertToJson.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\DocumentProcessing\\Interfaces\\IConvertToJson.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\Interfaces\\IConvertToJson.cs",
+              "RelativeToolTip": "Types_Generics\\DocumentProcessing\\Interfaces\\IConvertToJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:37:36.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\Document.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\DocumentProcessing\\Document.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\Document.cs",
+              "RelativeToolTip": "Types_Generics\\DocumentProcessing\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:56:21.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Types_Generics\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:08:29.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IConvertToUpperCase.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\Interfaces\\IConvertToUpperCase.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\DocumentProcessing\\Interfaces\\IConvertToUpperCase.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\DocumentProcessing\\Interfaces\\IConvertToUpperCase.cs",
+              "RelativeToolTip": "Types_Generics\\DocumentProcessing\\Interfaces\\IConvertToUpperCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:55:38.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExampleGen.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Generics\\ExampleGen.cs",
+              "RelativeDocumentMoniker": "Types_Generics\\Generics\\ExampleGen.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 4\\Week_4_SLN\\Types_Generics\\Generics\\ExampleGen.cs",
+              "RelativeToolTip": "Types_Generics\\Generics\\ExampleGen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:24:14.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

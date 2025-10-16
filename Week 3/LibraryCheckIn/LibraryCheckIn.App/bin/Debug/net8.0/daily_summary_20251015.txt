@@ -1,0 +1,13 @@
+Date/time processed: 20251015
+
+Count by condition:
+  New: 1
+  Good: 1
+  Worn: 1
+  Damaged: 1
+
+Book Penalties:
+"The Alchemist" by Paulo Coelho — Penalty: 0
+"Old Tales" by Jane Roe — Penalty: 3
+"Broken Things" by John Doe — Penalty: 10
+"Brand New Book" by New Author — Penalty: -1

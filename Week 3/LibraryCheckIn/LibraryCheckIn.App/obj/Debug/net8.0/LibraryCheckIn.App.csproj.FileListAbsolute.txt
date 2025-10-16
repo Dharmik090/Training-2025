@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\bin\Debug\net8.0\LibraryCheckIn.App.exe
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\bin\Debug\net8.0\LibraryCheckIn.App.deps.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\bin\Debug\net8.0\LibraryCheckIn.App.runtimeconfig.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\bin\Debug\net8.0\LibraryCheckIn.App.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\bin\Debug\net8.0\LibraryCheckIn.App.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\LibraryCheckIn.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\LibraryCheckIn.App.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\LibraryCheckIn.App.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\LibraryCheckIn.App.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\LibraryCheckIn.App.sourcelink.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\LibraryCheckIn.App.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\refint\LibraryCheckIn.App.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\LibraryCheckIn.App.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\LibraryCheckIn.App.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\obj\Debug\net8.0\ref\LibraryCheckIn.App.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 4\LibraryCheckIn\LibraryCheckIn.App\bin\Debug\net8.0\returns_20250401.csv
