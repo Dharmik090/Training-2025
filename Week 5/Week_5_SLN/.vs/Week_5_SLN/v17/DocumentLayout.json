@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\services\\ireservationoperaion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\services\\ireservationoperaion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\services\\iroomoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\services\\iroomoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.api\\services\\idboperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AFDF44-98A9-47F3-B95D-6DFCE026363F}|ReadingRoom.Api\\ReadingRoom.Api.csproj|solutionrelative:readingroom.api\\services\\idboperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69C6012-BB68-4B7D-AB94-2CFEC6FDADAF}|ReadingRoom.Data\\ReadingRoom.Data.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 5\\week_5_sln\\readingroom.data\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69C6012-BB68-4B7D-AB94-2CFEC6FDADAF}|ReadingRoom.Data\\ReadingRoom.Data.csproj|solutionrelative:readingroom.data\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "ReadingRoom.Api\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA3wEcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T21:21:00.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\ReservationService.cs",
+              "RelativeToolTip": "ReadingRoom.Api\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:41:16.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\RoomService.cs",
+              "RelativeToolTip": "ReadingRoom.Api\\Services\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:46:04.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDbOperation.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\IDbOperation.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\Services\\IDbOperation.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\IDbOperation.cs",
+              "RelativeToolTip": "ReadingRoom.Api\\Services\\IDbOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:50:00.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Program.cs",
+              "RelativeToolTip": "ReadingRoom.Api\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T20:35:31.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\appsettings.json",
+              "RelativeToolTip": "ReadingRoom.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T21:50:09.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "ReadingRoom.Api\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T21:29:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRoomOperation.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\IRoomOperation.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\Services\\IRoomOperation.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\IRoomOperation.cs",
+              "RelativeToolTip": "ReadingRoom.Api\\Services\\IRoomOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T21:32:48.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReservationOperaion.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\IReservationOperaion.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Api\\Services\\IReservationOperaion.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Api\\Services\\IReservationOperaion.cs",
+              "RelativeToolTip": "ReadingRoom.Api\\Services\\IReservationOperaion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T21:33:11.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Data\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "ReadingRoom.Data\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 5\\Week_5_SLN\\ReadingRoom.Data\\Models\\Room.cs",
+              "RelativeToolTip": "ReadingRoom.Data\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T21:04:58.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

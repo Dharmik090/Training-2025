@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\bin\Debug\net8.0\ReadingRoom.Data.deps.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\bin\Debug\net8.0\ReadingRoom.Data.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\bin\Debug\net8.0\ReadingRoom.Data.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ReadingRoom.Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ReadingRoom.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ReadingRoom.Data.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ReadingRoom.Data.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ReadingRoom.Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ReadingRoom.Data.sourcelink.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ReadingRoom.Data.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\refint\ReadingRoom.Data.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ReadingRoom.Data.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 5\Week_5_SLN\ReadingRoom.Data\obj\Debug\net8.0\ref\ReadingRoom.Data.dll
