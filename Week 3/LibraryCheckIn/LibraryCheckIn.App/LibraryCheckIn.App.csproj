@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <None Update="returns_20250401.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 

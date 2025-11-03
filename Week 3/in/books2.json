@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Title": "Night Sky",
+        "Author": "Luna Bright",
+        "Condition": "Good"
+    },
+    {
+        "Id": 2,
+        "Title": "Fallen Stars",
+        "Author": "Chris Orion",
+        "Condition": "New"
+    },
+    {
+        "Id": 3,
+        "Title": "Ocean Depths",
+        "Author": "Aqua Blue",
+        "Condition": "Worn"
+    },
+    {
+        "Id": 4,
+        "Title": "Golden Horizon",
+        "Author": "Ray Dawn",
+        "Condition": "Good"
+    }
+]

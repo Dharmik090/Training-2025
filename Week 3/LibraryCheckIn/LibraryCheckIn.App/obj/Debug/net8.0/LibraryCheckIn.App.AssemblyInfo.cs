@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryCheckIn.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a89ba40b408eb057492dd7a737498829ee9d781")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f79fea949df290c61a60546650a26a21aa8939d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryCheckIn.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryCheckIn.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

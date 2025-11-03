@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CBB9AC1-03F3-47E3-A4E1-21CB21456F30}|LibraryCheckIn.App\\LibraryCheckIn.App.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\librarycheckin.app\\returns_20250401.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0CBB9AC1-03F3-47E3-A4E1-21CB21456F30}|LibraryCheckIn.App\\LibraryCheckIn.App.csproj|solutionrelative:librarycheckin.app\\returns_20250401.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{242C5570-00E9-40EE-B496-854E41DC62FC}|Ingestion.Cli\\Ingestion.Cli.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242C5570-00E9-40EE-B496-854E41DC62FC}|Ingestion.Cli\\Ingestion.Cli.csproj|solutionrelative:ingestion.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CBB9AC1-03F3-47E3-A4E1-21CB21456F30}|LibraryCheckIn.App\\LibraryCheckIn.App.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\librarycheckin.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CBB9AC1-03F3-47E3-A4E1-21CB21456F30}|LibraryCheckIn.App\\LibraryCheckIn.App.csproj|solutionrelative:librarycheckin.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.pipeline\\writers\\xmlreportwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|solutionrelative:ingestion.pipeline\\writers\\xmlreportwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.pipeline\\importers\\jsonbookimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|solutionrelative:ingestion.pipeline\\importers\\jsonbookimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.pipeline\\importers\\csvbookimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|solutionrelative:ingestion.pipeline\\importers\\csvbookimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.pipeline\\importers\\idatatabletoobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|solutionrelative:ingestion.pipeline\\importers\\idatatabletoobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.pipeline\\importers\\fileimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|solutionrelative:ingestion.pipeline\\importers\\fileimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.pipeline\\writers\\ireportwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|solutionrelative:ingestion.pipeline\\writers\\ireportwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.pipeline\\domain\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|solutionrelative:ingestion.pipeline\\domain\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.pipeline\\ingestion.pipeline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83123830-CDE6-44E9-9128-2F73D8870C5F}|Ingestion.Pipeline\\Ingestion.Pipeline.csproj|solutionrelative:ingestion.pipeline\\ingestion.pipeline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242C5570-00E9-40EE-B496-854E41DC62FC}|Ingestion.Cli\\Ingestion.Cli.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\librarycheckin\\ingestion.cli\\ingestion.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{242C5570-00E9-40EE-B496-854E41DC62FC}|Ingestion.Cli\\Ingestion.Cli.csproj|solutionrelative:ingestion.cli\\ingestion.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 279,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +62,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "returns_20250401.csv",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\LibraryCheckIn.App\\returns_20250401.csv",
-              "RelativeDocumentMoniker": "LibraryCheckIn.App\\returns_20250401.csv",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\LibraryCheckIn.App\\returns_20250401.csv",
-              "RelativeToolTip": "LibraryCheckIn.App\\returns_20250401.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-10-16T11:58:04.738Z",
+              "DocumentIndex": 1,
+              "Title": "XmlReportWriter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Writers\\XmlReportWriter.cs",
+              "RelativeDocumentMoniker": "Ingestion.Pipeline\\Writers\\XmlReportWriter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Writers\\XmlReportWriter.cs",
+              "RelativeToolTip": "Ingestion.Pipeline\\Writers\\XmlReportWriter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:38:58.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\LibraryCheckIn.App\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryCheckIn.App\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\LibraryCheckIn.App\\Program.cs",
-              "RelativeToolTip": "LibraryCheckIn.App\\Program.cs",
+              "DocumentIndex": 2,
+              "Title": "JsonBookImporter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Importers\\JsonBookImporter.cs",
+              "RelativeDocumentMoniker": "Ingestion.Pipeline\\Importers\\JsonBookImporter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Importers\\JsonBookImporter.cs",
+              "RelativeToolTip": "Ingestion.Pipeline\\Importers\\JsonBookImporter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:35:09.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataTableToObject.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Importers\\IDataTableToObject.cs",
+              "RelativeDocumentMoniker": "Ingestion.Pipeline\\Importers\\IDataTableToObject.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Importers\\IDataTableToObject.cs",
+              "RelativeToolTip": "Ingestion.Pipeline\\Importers\\IDataTableToObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T11:55:51.16Z"
+              "WhenOpened": "2025-10-29T12:35:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileImporter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Importers\\FileImporter.cs",
+              "RelativeDocumentMoniker": "Ingestion.Pipeline\\Importers\\FileImporter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Importers\\FileImporter.cs",
+              "RelativeToolTip": "Ingestion.Pipeline\\Importers\\FileImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:58:49.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvBookImporter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Importers\\CsvBookImporter.cs",
+              "RelativeDocumentMoniker": "Ingestion.Pipeline\\Importers\\CsvBookImporter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Importers\\CsvBookImporter.cs",
+              "RelativeToolTip": "Ingestion.Pipeline\\Importers\\CsvBookImporter.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA1wFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:44:58.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Cli\\Program.cs",
+              "RelativeDocumentMoniker": "Ingestion.Cli\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Cli\\Program.cs",
+              "RelativeToolTip": "Ingestion.Cli\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:23:40.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReportWriter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Writers\\IReportWriter.cs",
+              "RelativeDocumentMoniker": "Ingestion.Pipeline\\Writers\\IReportWriter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Writers\\IReportWriter.cs",
+              "RelativeToolTip": "Ingestion.Pipeline\\Writers\\IReportWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:58:59.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ingestion.Cli.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Cli\\Ingestion.Cli.csproj",
+              "RelativeDocumentMoniker": "Ingestion.Cli\\Ingestion.Cli.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Cli\\Ingestion.Cli.csproj",
+              "RelativeToolTip": "Ingestion.Cli\\Ingestion.Cli.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T11:54:55.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Domain\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Ingestion.Pipeline\\Domain\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Domain\\BookDbContext.cs",
+              "RelativeToolTip": "Ingestion.Pipeline\\Domain\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:54:28.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ingestion.Pipeline.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Ingestion.Pipeline.csproj",
+              "RelativeDocumentMoniker": "Ingestion.Pipeline\\Ingestion.Pipeline.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\LibraryCheckIn\\Ingestion.Pipeline\\Ingestion.Pipeline.csproj",
+              "RelativeToolTip": "Ingestion.Pipeline\\Ingestion.Pipeline.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T11:54:52.337Z"
             }
           ]
         },

@@ -1,0 +1,26 @@
+[
+    {
+        "Id": 1,
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "Condition": "Good"
+    },
+    {
+        "Id": 2,
+        "Title": "Old Tales",
+        "Author": "Jane Roe",
+        "Condition": "Worn"
+    },
+    {
+        "Id": 3,
+        "Title": "Broken Things",
+        "Author": "John Doe",
+        "Condition": "Damaged"
+    },
+    {
+        "Id": 4,
+        "Title": "Brand New Book",
+        "Author": "New Author",
+        "Condition": "New"
+    }
+]
