@@ -1,0 +1,12 @@
+{
+  "Id": "10bb4fe8-1769-4794-b8bc-8f167bfc6875",
+  "Title": "First Note",
+  "CryptoFields": {
+    "Ciphertext": "\u002BW4kDxrtxsoYe9Rv4LVGu4Tq1dTNNDSN24s601vz3D7A5XvB3DuwLiJAYckw8n7U4CxL5A==",
+    "Salt": "lvvBcm2mXNu1ynbBbi3T1g==",
+    "Nonce": "TzNN/3hwcA4DHg/b",
+    "Tag": "RvBj5DG6d8bpWat5afUB2g=="
+  },
+  "CreatedAt": "2025-10-17T16:37:58.9069372+05:30",
+  "UpdatedAt": "2025-10-17T16:37:58.9081429+05:30"
+}

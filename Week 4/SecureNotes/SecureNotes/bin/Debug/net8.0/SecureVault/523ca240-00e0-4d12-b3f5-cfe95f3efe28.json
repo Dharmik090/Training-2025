@@ -1,0 +1,12 @@
+{
+  "Id": "523ca240-00e0-4d12-b3f5-cfe95f3efe28",
+  "Title": "Sample",
+  "CryptoFields": {
+    "Ciphertext": "IUbLnQ76azJx0R2H",
+    "Salt": "JgZUJXYeKuS55TLL4X9h5w==",
+    "Nonce": "4Zf0AyTUMOfia2iV",
+    "Tag": "Xbz5wH2OnK0d5HT1C/ZMlQ=="
+  },
+  "CreatedAt": "2025-10-29T18:40:09.1446612+05:30",
+  "UpdatedAt": "2025-10-29T18:40:09.1447066+05:30"
+}

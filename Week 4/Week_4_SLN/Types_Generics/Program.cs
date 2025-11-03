@@ -83,8 +83,61 @@ namespace Types_Generics
             //-----------------------------------------------------------------
             // String Extension Method
             string word = "hello";
-            Console.WriteLine(word.ToTitleCase()); 
+            Console.WriteLine(word.ToTitleCase());
 
+
+
+            // ----------------------------------------------------------------
+            List<string> names = new List<string>();
+            names.Add("Alice");
+            names.Add("Bob");
+
+            foreach (string name in names)
+            {
+                Console.WriteLine(name);
+            }
+
+            Stack<int> stack = new Stack<int>();
+            stack.Push(10);
+            stack.Push(20);
+
+            while (stack.Count > 0)
+            {
+                Console.WriteLine(stack.Pop());
+            }
+            stack.Clear();
+
+
+            Queue<double> queue = new Queue<double>();
+            queue.Enqueue(1.1);
+            queue.Enqueue(2.2);
+
+            while (queue.Count > 0)
+            {
+                Console.WriteLine(queue.Dequeue());
+            }
+            queue.Clear();
+
+
+            Dictionary<int, string> students = new Dictionary<int, string>();
+            students.Add(1, "Alice");
+            students.Add(2, "Bob");
+
+            foreach (KeyValuePair<int, string> kvp in students)
+            {
+                Console.WriteLine($"ID: {kvp.Key}, Name: {kvp.Value}");
+            }
+
+            HashSet<string> cities = new HashSet<string>();
+            cities.Add("New York");
+            cities.Add("London");
+            cities.Add("Paris");
+            cities.Add("London"); // duplicate will be ignored
+
+            foreach (string city in cities)
+            {
+                Console.WriteLine(city);
+            }
 
 
             //-----------------------------------------------------------------
