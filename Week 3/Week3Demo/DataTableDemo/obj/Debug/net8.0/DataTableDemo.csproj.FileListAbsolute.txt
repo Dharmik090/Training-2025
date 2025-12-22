@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\bin\Debug\net8.0\DataTableDemo.exe
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\bin\Debug\net8.0\DataTableDemo.deps.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\bin\Debug\net8.0\DataTableDemo.runtimeconfig.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\bin\Debug\net8.0\DataTableDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\bin\Debug\net8.0\DataTableDemo.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\DataTableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\DataTableDemo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\DataTableDemo.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\DataTableDemo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\DataTableDemo.sourcelink.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\DataTableDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\refint\DataTableDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\DataTableDemo.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\DataTableDemo.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\DataTableDemo\obj\Debug\net8.0\ref\DataTableDemo.dll

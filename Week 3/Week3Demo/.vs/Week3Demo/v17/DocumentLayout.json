@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D799D5C-7466-4BB2-99D5-334F4B71C05D}|FileOperationsDemo\\FileOperationsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\fileoperationsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D799D5C-7466-4BB2-99D5-334F4B71C05D}|FileOperationsDemo\\FileOperationsDemo.csproj|solutionrelative:fileoperationsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C747454-706A-4053-B403-10F982BA9BAC}|DataTableDemo\\DataTableDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\datatabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C747454-706A-4053-B403-10F982BA9BAC}|DataTableDemo\\DataTableDemo.csproj|solutionrelative:datatabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\mydatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\mydatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\mystring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\enums\\bignumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\enums\\bignumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\enums\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\enums\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\accessmodifiers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\accessmodifiers\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\accessmodifiers\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\accessmodifiers\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\basicsdemo\\basicsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A390D149-8894-406C-ADD4-2E8EC2B79DFA}|BasicsDemo\\BasicsDemo.csproj|solutionrelative:basicsdemo\\basicsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D799D5C-7466-4BB2-99D5-334F4B71C05D}|FileOperationsDemo\\FileOperationsDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\fileoperationsdemo\\fileoperationsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D799D5C-7466-4BB2-99D5-334F4B71C05D}|FileOperationsDemo\\FileOperationsDemo.csproj|solutionrelative:fileoperationsdemo\\fileoperationsdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C747454-706A-4053-B403-10F982BA9BAC}|DataTableDemo\\DataTableDemo.csproj|c:\\users\\lenovo\\desktop\\rkit\\training\\training-github\\week 3\\week3demo\\datatabledemo\\datatabledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C747454-706A-4053-B403-10F982BA9BAC}|DataTableDemo\\DataTableDemo.csproj|solutionrelative:datatabledemo\\datatabledemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyString.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\MyString.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\MyString.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\MyString.cs",
+              "RelativeToolTip": "BasicsDemo\\MyString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:07:26.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\MyMath.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\MyMath.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\MyMath.cs",
+              "RelativeToolTip": "BasicsDemo\\MyMath.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:04:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasicsDemo",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\BasicsDemo.csproj",
+              "RelativeDocumentMoniker": "BasicsDemo\\BasicsDemo.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\BasicsDemo.csproj",
+              "RelativeToolTip": "BasicsDemo\\BasicsDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:49:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileOperationsDemo",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\FileOperationsDemo\\FileOperationsDemo.csproj",
+              "RelativeDocumentMoniker": "FileOperationsDemo\\FileOperationsDemo.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\FileOperationsDemo\\FileOperationsDemo.csproj",
+              "RelativeToolTip": "FileOperationsDemo\\FileOperationsDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:49:12.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataTableDemo",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\DataTableDemo\\DataTableDemo.csproj",
+              "RelativeDocumentMoniker": "DataTableDemo\\DataTableDemo.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\DataTableDemo\\DataTableDemo.csproj",
+              "RelativeToolTip": "DataTableDemo\\DataTableDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:49:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\FileOperationsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "FileOperationsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\FileOperationsDemo\\Program.cs",
+              "RelativeToolTip": "FileOperationsDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:49:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\DataTableDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DataTableDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\DataTableDemo\\Program.cs",
+              "RelativeToolTip": "DataTableDemo\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:48:44.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\Program.cs",
+              "RelativeToolTip": "BasicsDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:33:21.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\MyDateTime.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\MyDateTime.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\MyDateTime.cs",
+              "RelativeToolTip": "BasicsDemo\\MyDateTime.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:24:52.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\Enums\\Status.cs",
+              "RelativeToolTip": "BasicsDemo\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:51:32.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BigNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\Enums\\BigNumbers.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\Enums\\BigNumbers.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\Enums\\BigNumbers.cs",
+              "RelativeToolTip": "BasicsDemo\\Enums\\BigNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:54:01.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\Enums\\Permissions.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\Enums\\Permissions.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\Enums\\Permissions.cs",
+              "RelativeToolTip": "BasicsDemo\\Enums\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:55:00.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\AccessModifiers\\Employee.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\AccessModifiers\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\AccessModifiers\\Employee.cs",
+              "RelativeToolTip": "BasicsDemo\\AccessModifiers\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:42:48.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\AccessModifiers\\Person.cs",
+              "RelativeDocumentMoniker": "BasicsDemo\\AccessModifiers\\Person.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\RKIT\\Training\\Training-GitHub\\Week 3\\Week3Demo\\BasicsDemo\\AccessModifiers\\Person.cs",
+              "RelativeToolTip": "BasicsDemo\\AccessModifiers\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:40:56.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

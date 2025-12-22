@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\bin\Debug\net8.0\BasicsDemo.exe
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\bin\Debug\net8.0\BasicsDemo.deps.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\bin\Debug\net8.0\BasicsDemo.runtimeconfig.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\bin\Debug\net8.0\BasicsDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\bin\Debug\net8.0\BasicsDemo.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\BasicsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\BasicsDemo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\BasicsDemo.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\BasicsDemo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\BasicsDemo.sourcelink.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\BasicsDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\refint\BasicsDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\BasicsDemo.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\BasicsDemo.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\BasicsDemo\obj\Debug\net8.0\ref\BasicsDemo.dll

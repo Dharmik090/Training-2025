@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\bin\Debug\net8.0\FileOperationsDemo.exe
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\bin\Debug\net8.0\FileOperationsDemo.deps.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\bin\Debug\net8.0\FileOperationsDemo.runtimeconfig.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\bin\Debug\net8.0\FileOperationsDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\bin\Debug\net8.0\FileOperationsDemo.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\FileOperationsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\FileOperationsDemo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\FileOperationsDemo.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\FileOperationsDemo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\FileOperationsDemo.sourcelink.json
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\FileOperationsDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\refint\FileOperationsDemo.dll
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\FileOperationsDemo.pdb
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\FileOperationsDemo.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\RKIT\Training\Training-GitHub\Week 3\Week3Demo\FileOperationsDemo\obj\Debug\net8.0\ref\FileOperationsDemo.dll
