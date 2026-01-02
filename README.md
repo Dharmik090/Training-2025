@@ -12,3 +12,9 @@
 - **Week 3:** [C# Fundamentals](https://docs.google.com/document/d/1WATo6KI9prJReskk0SPOXE3FnBcd1D9ywjuV1p73isQ/edit?tab=t.vdhueza9iskt)
 - **Week 4:** [C# Advanced](https://docs.google.com/document/d/1WATo6KI9prJReskk0SPOXE3FnBcd1D9ywjuV1p73isQ/edit?tab=t.4ckamzcqp0jd)
 - **Week 5:** [C# Advanced](https://docs.google.com/document/d/1WATo6KI9prJReskk0SPOXE3FnBcd1D9ywjuV1p73isQ/edit?tab=t.bgo3zc6r4)
+
+---
+
+## JavaScript
+- **Week 7:** [JS Basics](https://docs.google.com/document/d/1WATo6KI9prJReskk0SPOXE3FnBcd1D9ywjuV1p73isQ/edit?tab=t.l0iasbluybyw)
+- **Week 8:** [JS OOJS/ES6 & jQuery](https://docs.google.com/document/d/1WATo6KI9prJReskk0SPOXE3FnBcd1D9ywjuV1p73isQ/edit?tab=t.ebeeb183vro)
