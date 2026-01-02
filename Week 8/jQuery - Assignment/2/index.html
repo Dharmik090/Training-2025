@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Assignment 8.2</title>
+
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+
+    <h2>Counter & Logger</h2>
+
+    <div id="counter">Counter: 0</div>
+
+    <button id="incrementBtn">Increment</button>
+    <button id="resetBtn">Reset</button>
+
+    <h3>Log</h3>
+    <div id="log"></div>
+
+    <script>
+        let count = 0;
+
+        function logMessage(msg) {
+            $("#log").append(msg + "<br>");
+        }
+
+        $("#incrementBtn").on("click", function () {
+            count++;
+            
+            $("#counter").text("Counter: " + count);
+            
+            logMessage("Increment clicked. Count = " + count);
+
+            if (count === 10) {
+                logMessage("Count is 10. Reset triggered.");
+                
+                // Programmatic trigger 
+                $("#resetBtn").trigger("click");
+            }
+        });
+
+        $("#resetBtn").on("click", function () {
+            count = 0;
+            
+            $("#counter").text("Counter: " + count);
+            
+            logMessage("Reset clicked.");
+        });
+    </script>
+
+</body>
+
+</html>

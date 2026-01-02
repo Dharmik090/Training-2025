@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 8.4</title>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <!-- jQuery Validate Plugin -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+
+    <style>
+        input.error {
+            border: 2px solid red;
+        }
+
+        .error {
+            color: red;
+            font-size: 0.9em;
+            margin-left: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>User Registration</h2>
+
+    <form id="registerForm">
+        <div>
+            <label>Name:</label>
+            <input type="text" name="name">
+        </div>
+        <br>
+
+        <div>
+            <label>Email:</label>
+            <input type="text" name="email">
+        </div>
+        <br>
+
+        <div>
+            <label>Password:</label>
+            <input type="password" name="password">
+        </div>
+        <br>
+
+        <button type="submit">Register</button>
+    </form>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

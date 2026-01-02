@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+
+    <title>Differences</title>
+</head>
+
+<body>
+    <form id="demoForm">
+        <label>
+            Email:
+            <input type="email" name="email_field" required placeholder="enter email">
+        </label>
+        <br><br>
+
+        <!-- 1. HTML submit -->
+        <button type="submit">1 HTML Submit Button</button>
+
+        <!-- 2. jQuery submit -->
+        <button type="submit" id="jqBtn">2 jQuery .submit()</button>
+
+        <!-- 3. Native submit -->
+        <button type="button" id="nativeBtn">3 Native form.submit()</button>
+    </form>
+
+    <script>
+        const form = document.getElementById('demoForm');
+
+        // Submit handler
+        $('#demoForm').on('submit', function (e) {
+            console.log('submit event fired');
+            // e.preventDefault(); // try commenting this line
+        });
+
+        // jQuery submit
+        $("#demoForm").validate({
+            rules: {
+                email_field: {
+                    required: true,
+                    email: true 
+                }
+            },
+
+            messages: {
+                email_field: {
+                    required: "jQuery validate: email required",
+                    email: "jQuery validate: must be email"
+                }
+            },
+
+            submitHandler: function (form) {
+                console.log("jQuery validator submitHandler: form is valid");
+                form.submit();
+            }
+        });
+
+        // Native submit
+        document.getElementById('nativeBtn').onclick = function () {
+            form.submit();
+        };
+    </script>
+
+</body>
+
+</html>

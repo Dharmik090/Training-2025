@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Assignment 8.3</title>
+
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+
+<body>
+
+    <script>
+        // Given array of users
+        const users = [
+            { name: "Dharmik", role: "user" },
+            { name: "John", role: "admin" },
+            { name: "Sahil", role: "user" },
+            { name: "Heer", role: "user" },
+            { name: "Yash", role: "admin" }
+        ];
+
+        // 1. Filter admins using $.grep()
+        const admins = $.grep(users, function (user) {
+            return user.role === "admin";
+        });
+
+        // 2. Get admin names using $.map()
+        const adminNames = $.map(admins, function (admin) {
+            return admin.name;
+        });
+
+        // 3. Merge objects using $.extend()
+        const defaultSettings = {
+            theme: "dark",
+            notifications: true
+        };
+
+        const userSettings = {
+            theme: "light"
+        };
+
+        const finalSettings = $.extend({}, defaultSettings, userSettings);
+
+        // Log results
+        console.log("Admins:", admins);
+        console.log("Admin Names:", adminNames);
+        console.log("Final Settings:", finalSettings);
+    </script>
+
+</body>
+
+</html>

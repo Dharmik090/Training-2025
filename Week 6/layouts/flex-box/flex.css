@@ -1,0 +1,27 @@
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.a,
+.b,
+.c {
+    height: 100px;
+    background: lightblue;
+}
+
+.b {
+    order: 1;
+    width: 100%;
+}
+
+.a {
+    order: 2;
+    width: 45%;
+}
+
+.c {
+    order: 3;
+    width: 45%;
+}

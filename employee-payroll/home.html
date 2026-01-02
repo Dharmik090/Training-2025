@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="home.css">
+
+    <title>Employee Payroll System</title>
+</head>
+
+<body>
+    <div class="sidebar" id="sidebar">
+        <h2>Payroll System</h2>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#employees">Employees</a></li>
+            <li><a href="#salary">Salary</a></li>
+            <!-- <li><a href="#analytics">Analytics</a></li>
+            <li><a href="#settings">Settings</a></li> -->
+            <li><a href="#logout">Logout</a></li>
+        </ul>
+    </div>
+
+    <div class="main-content" id="mainContent">
+        <div class="header">
+            <h1>Welcome, Dharmik</h1>
+            <button class="menu-toggle" onclick="toggleMenu()">☰ Menu</button>
+        </div>
+
+        <div class="role-section">
+            <h2>Employee</h2>
+            <ul class="link-list">
+                <li><a href="#salary-breakdown">View My Salary Breakdown</a></li>
+                <li><a href="#last-month">View Last Month Salary Details</a></li>
+            </ul>
+        </div>
+
+        <div class="role-section">
+            <h2>Salary Manager</h2>
+            <ul class="link-list">
+                <li><a href="salary_details.html">View Employees Salary Details</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        function toggleMenu() {
+            const sidebar = document.getElementById('sidebar');
+            const mainContent = document.getElementById('mainContent');
+            
+            sidebar.classList.toggle('open');
+            sidebar.classList.toggle('closed');
+            mainContent.classList.toggle('expanded');
+        }
+    </script>
+</body>
+</html>

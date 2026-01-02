@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="emp_profile.css">
+
+    <title>Employee Profile</title>
+</head>
+<body>
+    <div class="sidebar" id="sidebar">
+        <h2>Payroll System</h2>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#employees">Employees</a></li>
+            <li><a href="#salary">Salary</a></li>
+            <!-- <li><a href="#analytics">Analytics</a></li>
+            <li><a href="#settings">Settings</a></li> -->
+            <li><a href="#logout">Logout</a></li>
+        </ul>
+    </div>
+
+    <div class="main-content" id="mainContent">
+        <div class="header">
+            <h1>Employee Profile</h1>
+            <button class="menu-toggle" onclick="toggleMenu()">Menu</button>
+        </div>
+
+        <div class="profile-container">
+            <div class="profile-card">
+                <div class="profile-image">RK</div>
+                <h2>Rajesh Kumar</h2>
+                <p>EMP001</p>
+                <span class="status-badge">Active</span>
+            </div>
+
+            <div class="details-section">
+                <h3>Personal Information</h3>
+                <div class="detail-row">
+                    <div class="detail-label">Full Name</div>
+                    <div class="detail-value">Dharmik Parmar</div>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-label">Employee ID</div>
+                    <div class="detail-value">EMP001</div>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-label">Email</div>
+                    <div class="detail-value">dp@rkit.com</div>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-label">Phone</div>
+                    <div class="detail-value">+91 87809 39013</div>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-label">Date of Birth</div>
+                    <div class="detail-value">28 April 2005</div>
+                </div>
+                <div class="detail-row">
+                    <div class="detail-label">Address</div>
+                    <div class="detail-value">123, XYZ, Jamnagar - 361001</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Employment Details -->
+        <div class="details-section">
+            <h3>Employment Details</h3>
+            <div class="detail-row">
+                <div class="detail-label">Department</div>
+                <div class="detail-value">Development</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">Role/Designation</div>
+                <div class="detail-value">Junior Software Developer</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">Employment Type</div>
+                <div class="detail-value">Full-Time</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">Employment Status</div>
+                <div class="detail-value">Active</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">Date of Joining</div>
+                <div class="detail-value">01 January 2022</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">Years of Service</div>
+                <div class="detail-value">4 years</div>
+            </div>
+        </div>
+
+        <!-- Additional Information
+        <div class="additional-info">
+            <h3>Bank & Tax Details</h3>
+            <div class="detail-row">
+                <div class="detail-label">Bank Account Number</div>
+                <div class="detail-value">1234567890123456</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">Bank Name</div>
+                <div class="detail-value">State Bank of India</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">IFSC Code</div>
+                <div class="detail-value">SBIN0001234</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">PAN Number</div>
+                <div class="detail-value">ABCDE1234F</div>
+            </div>
+            <div class="detail-row">
+                <div class="detail-label">PF Number</div>
+                <div class="detail-value">KA/BLR/12345/67890</div>
+            </div>
+        </div> -->
+
+        <!-- Action Buttons -->
+        <div class="action-buttons">
+            <button class="btn btn-primary">Edit Profile</button>
+            <button class="btn btn-primary">View Salary Details</button>
+            <!-- <button class="btn btn-secondary">Download Documents</button>
+            <button class="btn btn-danger">Deactivate Employee</button> -->
+        </div>
+    </div>
+
+    <script>
+        function toggleMenu() {
+            const sidebar = document.getElementById('sidebar');
+            const mainContent = document.getElementById('mainContent');
+            
+            sidebar.classList.toggle('open');
+            sidebar.classList.toggle('closed');
+            mainContent.classList.toggle('expanded');
+        }
+    </script>
+</body>
+</html>

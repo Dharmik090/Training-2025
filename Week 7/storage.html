@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Local & Session Storage Demo</title>
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+        }
+
+        input {
+            padding: 5px;
+        }
+
+        button {
+            padding: 5px 10px;
+            margin-left: 5px;
+        }
+
+        .box {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Local & Session Storage Demo</h2>
+
+    <!-- Local Storage -->
+    <div class="box">
+        <h3>Local Storage</h3>
+        <input id="localInput" placeholder="Enter local data">
+        <button onclick="saveLocal()">Save</button>
+        <button onclick="loadLocal()">Load</button>
+    </div>
+
+    <!-- Session Storage -->
+    <div class="box">
+        <h3>Session Storage</h3>
+        <input id="sessionInput" placeholder="Enter session data">
+        <button onclick="saveSession()">Save</button>
+        <button onclick="loadSession()">Load</button>
+    </div>
+
+    <script src="storage.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Assignment 8.1 - jQuery Selectors</title>
+
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Grocery List</h2>
+    <ul>
+        <li>Lentils</li>
+        <li>Millets</li>
+        <li>Milk</li>
+        <li>Cheese</li>
+    </ul>
+
+    <h2>Paragraphs</h2>
+    <p>This is paragraph one.</p>
+    <p id="status">This is paragraph two.</p>
+    <p>This is paragraph three.</p>
+
+    <script>
+        // 1. Change background color of every odd list item
+        $("li:odd").css("background-color", "lightgray");
+
+        // 2. Select paragraph by ID and change its text
+        $("#status").text("jQuery is active!");
+    </script>
+
+</body>
+
+</html>

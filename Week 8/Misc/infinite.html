@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Lazy Loading Demo</title>
+
+    <style>
+        body {
+            font-family: system-ui, sans-serif;
+            background: #fafafa;
+            padding: 24px;
+        }
+
+        h1 {
+            margin-bottom: 6px;
+        }
+
+        .hint {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 40px;
+        }
+
+        .item {
+            margin-bottom: 60px;
+        }
+
+        img {
+            width: 100%;
+            max-width: 420px;
+            border-radius: 4px;
+            background: #e0e0e0;
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Infinite Lazy Loading Demo</h1>
+    <p class="hint">
+        Scroll down. Images load lazily and more items are added infinitely.
+    </p>
+
+    <div id="list"></div>
+
+    <div id="loader"></div>
+
+    <script>
+        const list = document.getElementById("list");
+        const loader = document.getElementById("loader");
+
+        let imageCount = 0;
+
+        function addImages(count = 5) {
+            for (let i = 0; i < count; i++) {
+                imageCount++;
+
+                const item = document.createElement("div");
+                item.className = "item";
+
+                const img = document.createElement("img");
+                img.src =
+                    "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==";
+
+                img.dataset.src = `https://picsum.photos/seed/${imageCount}/420/260`;
+                img.classList.add("lazy");
+
+                item.appendChild(img);
+                list.appendChild(item);
+
+                imageObserver.observe(img);
+            }
+        }
+
+        // lazy loading observer
+        const imageObserver = new IntersectionObserver(
+            (entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const img = entry.target;
+                        img.src = img.dataset.src;
+                        
+                        observer.unobserve(img);
+                    }
+                });
+            },
+            {
+                rootMargin: "120px",
+                threshold: 0.1
+            }
+        );
+
+        // Infinite scroll observer
+        const infiniteObserver = new IntersectionObserver(
+            (entries) => {
+                if (entries[0].isIntersecting) {
+                    addImages(5);
+                }
+            },
+            {
+                rootMargin: "200px"
+            }
+        );
+
+        // Initial load
+        addImages(10);
+        infiniteObserver.observe(loader);
+    </script>
+</body>
+
+</html>

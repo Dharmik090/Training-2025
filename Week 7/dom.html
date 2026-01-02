@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>DOM Manipulation Demo</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+        }
+
+        .dark {
+            background: black;
+            color: white;
+        }
+
+        .box {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px 0;
+        }
+
+        .highlight {
+            background: yellow;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2 id="heading">Original Heading</h2>
+    <p id="text" class="para">This is some text.</p>
+    <p class="para">Another paragraph</p>
+
+    <!-- Buttons -->
+    <div id="div1" class="box">
+        <button onclick="changeText()">Change Text (onclick)</button>
+        <button onclick="changeColor()">Change Color</button>
+        <button id="toggleBtn">Toggle Dark Mode</button>
+    </div>
+
+    <!-- Insert elements -->
+    <div class="box">
+        <button onclick="addItem()">Add Item</button>
+        <ul id="items">
+            <li>Item 1</li>
+            <li>Item 2</li>
+        </ul>
+    </div>
+
+    <!-- Input Events -->
+    <div class="box">
+        <input id="nameInput" placeholder="Type your name">
+        <p id="output"></p>
+    </div>
+
+
+    <!-- Event Bubbling -->
+    <div id="parent">        
+        <button id="child">Click Me</button>
+    </div>
+
+    <script src="dom.js"></script>
+    <!-- <script src="basics.js"></script> -->
+</body>
+
+</html>

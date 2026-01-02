@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- jquery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+
+    <!-- jquery validation -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+
+    <title>jQuery - Form Validation</title>
+
+
+    <style>
+        input.error {
+            border: 2px solid red;
+        }
+
+        input.valid {
+            border: 2px solid green;
+        }
+    </style>
+
+</head>
+
+<body>
+    <h2>Register Form (With jQuery Validation)</h2>
+
+    <form id="registerForm">
+        <p>
+            <label>Email:</label><br>
+            <input type="email" name="email">
+        </p>
+
+        <p>
+            <label>Password:</label><br>
+            <input type="password" name="password" class="password">
+        </p>
+
+        <p>
+            <label>Confirm Password:</label><br>
+            <input type="password" name="confirm">
+        </p>
+
+        <p>
+            <label>Username (no spaces):</label><br>
+            <input type="text" name="username">
+        </p>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
