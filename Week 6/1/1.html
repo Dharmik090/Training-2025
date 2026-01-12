@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="1.css">
+
+    <title>HTML Basics Demo</title>
+
+<body>
+
+    <header>
+        <h1>HTML Basics Demonstration</h1>
+        <p>Images, Tables, Forms & Semantic Tags</p>
+    </header>
+
+
+    <nav>
+        <a href="#images">Images</a>
+        <a href="#tables">Tables</a>
+        <a href="#forms">Forms</a>
+    </nav>
+
+
+    <article id="images">
+        <h2>Image Tag Demo</h2>
+        <div class="image-section">
+
+            <!-- Image with alt text for accessibility -->
+            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80"
+                alt="Laptop showing HTML and CSS code on a desk" width="600" height="300">
+
+            <p><strong>Image attributes:</strong> src (source), alt (accessibility), width, height</p>
+
+        </div>
+    </article>
+
+    <h3>Table with Rowspan & Colspan</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th colspan="2">Contact</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td rowspan="2">John Doe</td>
+                <td>Email</td>
+                <td>john@example.com</td>
+            </tr>
+            <tr>
+                <td>Phone</td>
+                <td>123-456-7890</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <!-- Optional footer row -->
+            <tr>
+                <td colspan="3">Contact information</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    </article>
+
+
+    <article id="forms">
+        <h2>Forms Demo</h2>
+        <form action="/submit" method="POST">
+            <h3>User Registration Form</h3>
+
+            <!-- Text input -->
+            <label for="username">Username (required):</label>
+            <input type="text" id="username" name="username" required>
+
+            <!-- Email input -->
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="user@example.com">
+
+            <!-- Password input -->
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required minlength="8">
+
+            <!-- Number input -->
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="18" max="100">
+
+            <!-- Date input -->
+            <label for="birthdate">Birth Date:</label>
+            <input type="date" id="birthdate" name="birthdate">
+
+
+            <label>Gender:</label>
+            <div>
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male" style="display: inline; font-weight: normal;">Male</label>
+
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female" style="display: inline; font-weight: normal;">Female</label>
+            </div>
+
+
+            <div style="margin-top: 15px;">
+                <input type="checkbox" id="terms" name="terms" required>
+                <label for="terms" style="display: inline; font-weight: normal;">I agree to terms and conditions</label>
+            </div>
+
+
+            <label for="comments">Comments:</label>
+            <textarea id="comments" name="comments" rows="4"></textarea>
+
+
+            <input type="submit" value="Submit Form">
+        </form>
+    </article>
+</body>
+
+</html>

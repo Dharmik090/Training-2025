@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Bootstrap Demo</title>
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- Grid System -->
+        <div>
+            <h2>Bootstrap Grid</h2>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-12">
+                <div class="demo-box">col-12</div>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-6">
+                <div class="demo-box">col-6</div>
+            </div>
+            <div class="col-6">
+                <div class="demo-box">col-6</div>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-4">
+                <div class="demo-box">col-4</div>
+            </div>
+            <div class="col-4">
+                <div class="demo-box">col-4</div>
+            </div>
+            <div class="col-4">
+                <div class="demo-box">col-4</div>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-3">
+                <div class="demo-box">col-3</div>
+            </div>
+            <div class="col-9">
+                <div class="demo-box">col-9</div>
+            </div>
+        </div>
+
+
+        <div>
+            <h2>Responsive Grid</h2>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="demo-box">Column 1</div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="demo-box">Column 2</div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="demo-box">Column 3</div>
+            </div>
+        </div>
+
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead class="table-light">
+                    <tr>
+                        <th>Breakpoint</th>
+                        <th>Class Prefix</th>
+                        <th>Screen Size</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Extra Small</td>
+                        <td><code>col-</code></td>
+                        <td>&lt;576px</td>
+                    </tr>
+                    <tr>
+                        <td>Small</td>
+                        <td><code>col-sm-</code></td>
+                        <td>≥576px</td>
+                    </tr>
+                    <tr>
+                        <td>Medium</td>
+                        <td><code>col-md-</code></td>
+                        <td>≥768px</td>
+                    </tr>
+                    <tr>
+                        <td>Large</td>
+                        <td><code>col-lg-</code></td>
+                        <td>≥992px</td>
+                    </tr>
+                    <tr>
+                        <td>Extra Large</td>
+                        <td><code>col-xl-</code></td>
+                        <td>≥1200px</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</body>
+
+</html>

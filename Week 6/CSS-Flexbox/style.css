@@ -1,0 +1,40 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+
+    align-items: center;
+    gap: 10px;
+    background: #fff;
+    padding: 20px;
+    border: 2px solid #333;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+
+.box {
+    background: steelblue;
+    color: white;
+    padding: 20px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.grow {
+    flex-grow: 2;
+    background: tomato;
+}
+
+
+.wrap-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    background: #fff;
+    padding: 20px;
+    border: 2px dashed #555;
+}
