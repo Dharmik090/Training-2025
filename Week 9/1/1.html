@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        #box {
+            width: 150px;
+            height: 150px;
+            background: red;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="box"></div>
+
+    <script>
+        $("#box").on("click", function () {
+            $(this).fadeOut(2000, function () {
+                // CALLBACK runs only AFTER fadeOut completes
+                alert("Box is gone!");
+                $(this).fadeIn(2000);
+            });
+        });
+    </script>
+
+</body>
+
+</html>
