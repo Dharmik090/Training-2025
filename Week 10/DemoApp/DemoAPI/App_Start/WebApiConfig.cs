@@ -1,0 +1,30 @@
+﻿using DemoAPI.Utils;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web.Http;
+
+namespace DemoAPI
+{
+    public static class WebApiConfig
+    {
+        public static void Register(HttpConfiguration config)
+        {
+            config.MessageHandlers.Add(new JwtMessageHandler());
+
+            config.EnableCors();
+
+            config.Filters.Add(new GlobalExceptionFilter());
+
+            config.MapHttpAttributeRoutes();
+
+            config.Routes.MapHttpRoute(
+                name: "DefaultApi",
+                routeTemplate: "api/{controller}/{id}",
+                defaults: new { id = RouteParameter.Optional }
+            );
+
+            config.MessageHandlers.Add(new VersionHeaderHandler());
+        }
+    }
+}
